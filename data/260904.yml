@@ -7,7 +7,7 @@ about:
   head: 05cfb4f
   archived: false
   latestVersion: v1.27.0
-  collectedAt: 2026-09-04T19:53:22Z
+  collectedAt: 2026-09-04T20:46:32Z
 timeline:
   created: 2016-08-19
   lastCommit: 2026-09-01
@@ -87,6 +87,104 @@ total:
   openIssue: 40
   commit: 2163
 ---
+path: /home/runner/.x-repo/github.com/fission/fission
+collectedAt: 2026-09-04T20:46:35Z
+loc:
+  Go:
+    code: 154686
+    comments: 42005
+    blanks: 24843
+    files: 1273
+  Yaml:
+    code: 58417
+    comments: 1943
+    blanks: 462
+    files: 154
+  Json:
+    code: 10287
+    comments: 0
+    blanks: 0
+    files: 9
+  Pan:
+    code: 2006
+    comments: 90
+    blanks: 47
+    files: 9
+  Sh:
+    code: 660
+    comments: 174
+    blanks: 172
+    files: 19
+  Hcl:
+    code: 228
+    comments: 47
+    blanks: 32
+    files: 4
+  Bash:
+    code: 180
+    comments: 9
+    blanks: 15
+    files: 1
+  JavaScript:
+    code: 169
+    comments: 39
+    blanks: 19
+    files: 18
+  ForgeConfig:
+    code: 158
+    comments: 0
+    blanks: 0
+    files: 10
+  Xml:
+    code: 114
+    comments: 6
+    blanks: 13
+    files: 2
+  Makefile:
+    code: 102
+    comments: 61
+    blanks: 35
+    files: 1
+  Python:
+    code: 48
+    comments: 7
+    blanks: 10
+    files: 13
+  Html:
+    code: 42
+    comments: 6
+    blanks: 3
+    files: 1
+  Java:
+    code: 31
+    comments: 0
+    blanks: 9
+    files: 2
+  Dockerfile:
+    code: 20
+    comments: 15
+    blanks: 5
+    files: 5
+  Rust:
+    code: 4
+    comments: 2
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 9053
+    blanks: 2949
+    files: 63
+  Text:
+    code: 0
+    comments: 454
+    blanks: 195
+    files: 13
+total:
+  code: 228505
+  comments: 54252
+  blanks: 28935
+  files: 1598
 ---
 date: "2026-09-01T13:35:43Z"
 repo:
