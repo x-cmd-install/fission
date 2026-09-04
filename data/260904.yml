@@ -1,0 +1,63 @@
+about:
+  description: Fast and Simple Serverless Functions for Kubernetes
+  license: Apache-2.0
+  homepage: https://fission.io
+  head: 05cfb4f
+  archived: false
+  latestVersion: v1.27.0
+  collectedAt: 2026-09-04T04:44:01Z
+timeline:
+  created: 2016-08-19
+  lastCommit: 2026-09-01
+  lastRelease: 2026-06-22
+popularity:
+  star: 8914
+  watcher: 148
+  fork: 793
+  release: 86
+  contributor: 175
+  pullRequest: 603
+  issue: 1163
+language:
+  Go: 7572408
+  Go Template: 33466
+  Shell: 33379
+  Mustache: 28583
+  Makefile: 7630
+  Dockerfile: 1400
+  HCL: 1275
+  JavaScript: 120
+totalLine: 7678261
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 28
+    openPR: 3
+    closedIssue: 1
+    openIssue: 1
+    commit: 27
+  last90d:
+    since: 2026-06-06
+    release: 2
+    mergedPR: 165
+    openPR: 5
+    closedIssue: 25
+    openIssue: 8
+    commit: 161
+  last180d:
+    since: 2026-03-08
+    release: 5
+    mergedPR: 279
+    openPR: 5
+    closedIssue: 26
+    openIssue: 8
+    commit: 276
+  last360d:
+    since: 2025-09-09
+    release: 7
+    mergedPR: 320
+    openPR: 5
+    closedIssue: 29
+    openIssue: 8
+    commit: 321
