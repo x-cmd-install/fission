@@ -7,7 +7,7 @@ Fast and Simple Serverless Functions for Kubernetes
 - **Latest release**: `v1.27.0` (2026-06-22)
 - **Last commit**: 2026-09-01
 - **License**: Apache-2.0
-- **Stars**: 8914 · **Forks**: 793 · **Open issues**: 1164 · **Contributors**: 175
+- **Stars**: 8915 · **Forks**: 793 · **Open issues**: 1164 · **Contributors**: 175
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/fission> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:48:26Z._
+_Last regenerated: 2026-09-09T20:16:41Z._
