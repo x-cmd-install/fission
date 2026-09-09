@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.27.0"
   latestRelease: "v1.27.0"
   latestPrerelease: "v1.26.0"
-  collectedAt: 2026-09-09T05:48:16Z
+  collectedAt: 2026-09-09T20:16:28Z
 timeline:
   created: 2016-08-19
   lastCommit: 2026-09-01
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-22
   lastPrerelease: 2026-06-13
 popularity:
-  star: 8914
+  star: 8915
   watcher: 149
   fork: 793
   release: 86
@@ -90,7 +90,7 @@ total:
   commit: 2163
 ---
 path: /home/runner/.x-repo/github.com/fission/fission
-collectedAt: 2026-09-09T05:48:22Z
+collectedAt: 2026-09-09T20:16:34Z
 loc:
   Go:
     code: 154686
