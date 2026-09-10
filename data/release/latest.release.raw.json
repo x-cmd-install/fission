@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10271,
       "digest": "sha256:85d0aaf050aa975aed8decc72b7244fd970168d0cdf50da56a401444f0b334b9",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-06-22T12:13:56Z",
       "updated_at": "2026-06-22T12:13:56Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/builder_1.27.0_linux_amd64.sbom.json.sig.bundle"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 10083,
       "digest": "sha256:c3e3b2df6244be5de4e924cdd080a77884865ce3432f9386040703f607682242",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-06-22T12:13:56Z",
       "updated_at": "2026-06-22T12:13:57Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/builder_1.27.0_linux_arm64.sbom.json.sig.bundle"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 10223,
       "digest": "sha256:defdfe084445bdec1c046bfe872a07be622202f47528f3a5c8e0ce6a2cb0833c",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-06-22T12:13:58Z",
       "updated_at": "2026-06-22T12:13:58Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/checksums.txt.sig.bundle"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 10319,
       "digest": "sha256:d45918b1e04fbb324120d554b4045dde795d3a85f2b79ac34b0e09e49ebd6ce4",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-06-22T12:13:56Z",
       "updated_at": "2026-06-22T12:13:56Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/fetcher_1.27.0_linux_amd64.sbom.json.sig.bundle"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 10187,
       "digest": "sha256:72e072f2f75f999070b68e5164dea8612724dbbdb0faa8b28e41f6afb149a82c",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-06-22T12:13:57Z",
       "updated_at": "2026-06-22T12:13:57Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/fetcher_1.27.0_linux_arm64.sbom.json.sig.bundle"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 10315,
       "digest": "sha256:dbb69b3ba60e2f9ff724201efd3c63b8de2f5266a329430385877aff85f5196b",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-06-22T12:13:56Z",
       "updated_at": "2026-06-22T12:13:56Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/fission-bundle_1.27.0_linux_amd64.sbom.json.sig.bundle"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 10175,
       "digest": "sha256:50bce2bffa7de8a100e313131c3a4e4ee1ea9c23abd64006b588fe583b399197",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-06-22T12:13:57Z",
       "updated_at": "2026-06-22T12:13:57Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/fission-bundle_1.27.0_linux_arm64.sbom.json.sig.bundle"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 70774768,
       "digest": "sha256:2e0b28f4a42b0c3c00257370a78a6a313115217eac83211e76e45c30bdb93e33",
-      "download_count": 31,
+      "download_count": 32,
       "created_at": "2026-06-22T12:13:49Z",
       "updated_at": "2026-06-22T12:13:52Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/fission-v1.27.0-darwin-amd64"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 10219,
       "digest": "sha256:c32562ef330d698f6b989822c9585302480ec5d39f67784a5e6b33d896f499aa",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-06-22T12:13:55Z",
       "updated_at": "2026-06-22T12:13:56Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/fission-v1.27.0-darwin-amd64.sig.bundle"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 66389554,
       "digest": "sha256:8d27fdfbe66d9ac2568cd4bd36f836b15951a082ad3c2e00e3c3a7379783e1cb",
-      "download_count": 84,
+      "download_count": 85,
       "created_at": "2026-06-22T12:13:49Z",
       "updated_at": "2026-06-22T12:13:53Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/fission-v1.27.0-darwin-arm64"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 10319,
       "digest": "sha256:9171e5968b5458744fddcf2bdf6de23c4db0df5324e41c502ffbc342f5d22759",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-06-22T12:13:56Z",
       "updated_at": "2026-06-22T12:13:56Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/fission-v1.27.0-darwin-arm64.sig.bundle"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 69107874,
       "digest": "sha256:69eb82c53945ae8bdd5842933a88459b7004fe8eb2f0ab1c3de0a814e04ca9e9",
-      "download_count": 559,
+      "download_count": 562,
       "created_at": "2026-06-22T12:13:52Z",
       "updated_at": "2026-06-22T12:13:54Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/fission-v1.27.0-linux-amd64"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 10275,
       "digest": "sha256:bef402bc989c307d440425b4494af0debe155fddb6556d950c53ad5147251ac6",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-06-22T12:13:56Z",
       "updated_at": "2026-06-22T12:13:56Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/fission-v1.27.0-linux-amd64.sig.bundle"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 64290978,
       "digest": "sha256:13e2bde4bab4b447bb04ed202970338463005a9df0aa787075467b09d2a8b397",
-      "download_count": 171,
+      "download_count": 173,
       "created_at": "2026-06-22T12:13:49Z",
       "updated_at": "2026-06-22T12:13:52Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/fission-v1.27.0-linux-arm64"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 10187,
       "digest": "sha256:0b57a3c48f2fabc3756d0dd99e307c97eca56ae8c6fac779acfdc5c156e85b43",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-06-22T12:13:55Z",
       "updated_at": "2026-06-22T12:13:55Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/fission-v1.27.0-linux-arm64.sig.bundle"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 10271,
       "digest": "sha256:0d40ba041ca362e064f408cf91e1b50ac7e408784a6baadf259110184c61265c",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-06-22T12:13:56Z",
       "updated_at": "2026-06-22T12:13:56Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/fission-v1.27.0-windows-amd64.exe.sig.bundle"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 10287,
       "digest": "sha256:494b9d936b6e39bbb8d8f7910e6f3081b3c11e7872404f6f0e42c5f5e26184bf",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-06-22T12:13:58Z",
       "updated_at": "2026-06-22T12:13:58Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/fission.exe_1.27.0_windows_amd64.sbom.json.sig.bundle"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 10219,
       "digest": "sha256:56361f85edcf6d943ef63c650d94554de69713644e4f40bb03e68fee2b857dc0",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-06-22T12:13:57Z",
       "updated_at": "2026-06-22T12:13:58Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/fission_1.27.0_darwin_amd64.sbom.json.sig.bundle"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 10235,
       "digest": "sha256:e8ef3946aa025f64747470d280d4043e0ffe6c39b72b2ba7719b8b91ccde3b2c",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-06-22T12:13:58Z",
       "updated_at": "2026-06-22T12:13:58Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/fission_1.27.0_darwin_arm64.sbom.json.sig.bundle"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 10143,
       "digest": "sha256:c98d6e005efdd82573e4a54bd1cab72b2cbbef56c53ed5ce67c43938883bd68d",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-06-22T12:13:58Z",
       "updated_at": "2026-06-22T12:13:58Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/fission_1.27.0_linux_amd64.sbom.json.sig.bundle"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 10123,
       "digest": "sha256:df987cfa6565ceb03a689823105157bb5c3f2153e68b649027b747980396d6bf",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-06-22T12:13:57Z",
       "updated_at": "2026-06-22T12:13:58Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/fission_1.27.0_linux_arm64.sbom.json.sig.bundle"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 10079,
       "digest": "sha256:4d9d478fa33ca283241c6c3bd5938498399f8d8fbca4f2761819a15d6206d226",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-06-22T12:13:57Z",
       "updated_at": "2026-06-22T12:13:57Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/pre-upgrade-checks_1.27.0_linux_amd64.sbom.json.sig.bundle"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 10171,
       "digest": "sha256:ff78d48366bbc0a9c859b3727f86227169e4bab58ee4ad59a1b1f0b1b21c5c9c",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-06-22T12:13:57Z",
       "updated_at": "2026-06-22T12:13:57Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/pre-upgrade-checks_1.27.0_linux_arm64.sbom.json.sig.bundle"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 10239,
       "digest": "sha256:9c21a64681649e925b3483ee66f432de8d8a932eaaf7a5ff2ec83e686ba10c8e",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-06-22T12:13:57Z",
       "updated_at": "2026-06-22T12:13:57Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/reporter_1.27.0_linux_amd64.sbom.json.sig.bundle"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 10223,
       "digest": "sha256:8f07c9ee0b2c0c7deba2eb6e03f7ecf46bd8b8227c24bdcce94f339ab980b6b0",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-06-22T12:13:57Z",
       "updated_at": "2026-06-22T12:13:58Z",
       "browser_download_url": "https://github.com/fission/fission/releases/download/v1.27.0/reporter_1.27.0_linux_arm64.sbom.json.sig.bundle"
