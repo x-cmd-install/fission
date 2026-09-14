@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,917 · **Forks**: 794 · **Open issues**: 1,164 · **Contributors**: 175
+- **Stars**: 8,917 · **Forks**: 795 · **Open issues**: 1,164 · **Contributors**: 175
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 1818 · **Open PRs**: 9 · **Closed issues**: 1123 · **Open issues**: 41 · **Commits**: 2164
+- **Releases**: 86 · **Merged PRs**: 1818 · **Open PRs**: 10 · **Closed issues**: 1123 · **Open issues**: 41 · **Commits**: 2164
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 17 | 6 | 0 | 2 | 11 |
-| last60d | 2026-07-15 | 0 | 82 | 7 | 14 | 7 | 76 |
-| 90d | 2026-06-15 | 1 | 149 | 8 | 25 | 9 | 124 |
-| last180d | 2026-03-17 | 5 | 280 | 8 | 26 | 9 | 277 |
-| 360d | 2025-09-18 | 7 | 317 | 8 | 29 | 9 | 315 |
-| last720d | 2024-09-23 | 11 | 419 | 9 | 62 | 14 | 418 |
+| 30d | 2026-08-15 | 0 | 16 | 7 | 0 | 2 | 11 |
+| last60d | 2026-07-16 | 0 | 80 | 8 | 14 | 7 | 76 |
+| 90d | 2026-06-16 | 1 | 147 | 9 | 24 | 9 | 124 |
+| last180d | 2026-03-18 | 5 | 280 | 9 | 26 | 9 | 277 |
+| 360d | 2025-09-19 | 7 | 317 | 9 | 29 | 9 | 315 |
+| last720d | 2024-09-24 | 11 | 419 | 10 | 62 | 14 | 418 |
 
 ## Release assets
 
@@ -115,14 +115,6 @@ Lowest-scoring checks:
 | [reporter_1.27.0_linux_arm64.sbom.json](https://github.com/fission/fission/releases/download/v1.27.0/reporter_1.27.0_linux_arm64.sbom.json) | 50.9 KiB | `native/linux/arm64` |
 | [reporter_1.27.0_linux_arm64.sbom.json.sig.bundle](https://github.com/fission/fission/releases/download/v1.27.0/reporter_1.27.0_linux_arm64.sbom.json.sig.bundle) | 10.0 KiB | `native/linux/arm64` |
 
-## Distribution status
-
-Reported by **8** distros on [repology.org](https://repology.org/project/fission). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `1.27.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for fission lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `fission` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -132,4 +124,4 @@ Install metadata for fission lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:52:10Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:03:14Z._
