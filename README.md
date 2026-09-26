@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 6 | 5 | 0 | 1 | 5 |
-| last60d | 2026-07-27 | 0 | 65 | 7 | 4 | 7 | 65 |
-| 90d | 2026-06-27 | 0 | 110 | 7 | 23 | 7 | 104 |
-| last180d | 2026-03-29 | 5 | 284 | 8 | 26 | 9 | 282 |
-| 360d | 2025-09-30 | 7 | 322 | 8 | 29 | 9 | 320 |
-| last720d | 2024-10-05 | 10 | 416 | 9 | 61 | 14 | 411 |
+| 30d | 2026-08-27 | 0 | 6 | 5 | 0 | 1 | 5 |
+| last60d | 2026-07-28 | 0 | 64 | 7 | 4 | 7 | 65 |
+| 90d | 2026-06-28 | 0 | 107 | 7 | 23 | 7 | 104 |
+| last180d | 2026-03-30 | 5 | 283 | 8 | 26 | 9 | 282 |
+| 360d | 2025-10-01 | 7 | 322 | 8 | 29 | 9 | 320 |
+| last720d | 2024-10-06 | 10 | 416 | 9 | 61 | 14 | 411 |
 
 ## Release assets
 
@@ -124,4 +124,4 @@ Install metadata for fission lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:44:23Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:39:40Z._
