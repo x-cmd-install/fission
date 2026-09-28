@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 2/27 approved changesets -- score normalized to 0
 - **Vulnerabilities** (4/10) — 6 existing vulnerabilities detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,925 · **Forks**: 794 · **Open issues**: 1,164 · **Contributors**: 176
+- **Stars**: 8,926 · **Forks**: 794 · **Open issues**: 1,164 · **Contributors**: 176
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 5 | 5 | 0 | 1 | 5 |
-| last60d | 2026-07-29 | 0 | 64 | 7 | 4 | 7 | 65 |
-| 90d | 2026-06-29 | 0 | 107 | 7 | 23 | 7 | 104 |
-| last180d | 2026-03-31 | 5 | 283 | 8 | 26 | 9 | 282 |
-| 360d | 2025-10-02 | 7 | 322 | 8 | 29 | 9 | 320 |
-| last720d | 2024-10-07 | 10 | 416 | 9 | 61 | 14 | 411 |
+| 30d | 2026-08-29 | 0 | 5 | 5 | 0 | 1 | 4 |
+| last60d | 2026-07-30 | 0 | 64 | 7 | 4 | 6 | 33 |
+| 90d | 2026-06-30 | 0 | 107 | 7 | 23 | 7 | 103 |
+| last180d | 2026-04-01 | 5 | 283 | 8 | 26 | 9 | 282 |
+| 360d | 2025-10-03 | 7 | 322 | 8 | 29 | 9 | 320 |
+| last720d | 2024-10-08 | 10 | 414 | 9 | 61 | 14 | 411 |
 
 ## Release assets
 
@@ -124,4 +124,4 @@ Install metadata for fission lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:01:42Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:10:30Z._
