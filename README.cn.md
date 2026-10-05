@@ -32,7 +32,7 @@ x install fission
 
 - **Code-Review** (0/10) — Found 2/27 approved changesets -- score normalized to 0
 - **Vulnerabilities** (4/10) — 6 existing vulnerabilities detected
-- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -58,12 +58,12 @@ x install fission
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 4 | 4 | 0 | 2 | 4 |
-| last60d | 2026-08-05 | 0 | 32 | 5 | 1 | 3 | 22 |
-| 90d | 2026-07-06 | 0 | 106 | 6 | 22 | 8 | 97 |
-| last180d | 2026-04-07 | 5 | 283 | 7 | 26 | 10 | 282 |
-| 360d | 2025-10-09 | 7 | 321 | 7 | 29 | 10 | 320 |
-| last720d | 2024-10-14 | 10 | 412 | 8 | 57 | 15 | 407 |
+| 30d | 2026-09-05 | 0 | 4 | 4 | 0 | 2 | 4 |
+| last60d | 2026-08-06 | 0 | 30 | 5 | 1 | 3 | 22 |
+| 90d | 2026-07-07 | 0 | 105 | 6 | 22 | 8 | 97 |
+| last180d | 2026-04-08 | 5 | 283 | 7 | 26 | 10 | 282 |
+| 360d | 2025-10-10 | 7 | 321 | 7 | 29 | 10 | 320 |
+| last720d | 2024-10-15 | 10 | 412 | 8 | 57 | 15 | 407 |
 
 ## Release 资产
 
@@ -124,4 +124,4 @@ fission 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261004.yml` · 2026-10-04T06:35:29Z._
+_数据快照: `data/card/261005.yml` · 2026-10-05T06:23:50Z._
