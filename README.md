@@ -26,12 +26,12 @@ Total: **228,859** lines of code across **1474** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.5 / 10**
+Overall score: **7.2 / 10**
 
 Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 2/27 approved changesets -- score normalized to 0
-- **Vulnerabilities** (4/10) — 6 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 12 existing vulnerabilities detected
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,931 · **Forks**: 796 · **Open issues**: 1,165 · **Contributors**: 176
+- **Stars**: 8,932 · **Forks**: 796 · **Open issues**: 1,165 · **Contributors**: 176
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 1 | 5 | 0 | 1 | 0 |
-| last60d | 2026-08-12 | 0 | 22 | 6 | 0 | 3 | 14 |
-| 90d | 2026-07-13 | 0 | 96 | 7 | 14 | 8 | 82 |
-| last180d | 2026-04-14 | 5 | 283 | 8 | 26 | 10 | 278 |
-| 360d | 2025-10-16 | 7 | 320 | 8 | 29 | 10 | 320 |
-| last720d | 2024-10-21 | 10 | 412 | 9 | 56 | 15 | 407 |
+| 30d | 2026-09-12 | 0 | 1 | 5 | 0 | 1 | 0 |
+| last60d | 2026-08-13 | 0 | 22 | 6 | 0 | 3 | 14 |
+| 90d | 2026-07-14 | 0 | 90 | 7 | 14 | 8 | 82 |
+| last180d | 2026-04-15 | 5 | 283 | 8 | 26 | 10 | 278 |
+| 360d | 2025-10-17 | 7 | 320 | 8 | 29 | 10 | 320 |
+| last720d | 2024-10-22 | 10 | 412 | 9 | 56 | 15 | 407 |
 
 ## Release assets
 
@@ -124,4 +124,4 @@ Install metadata for fission lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:27:19Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:52:06Z._
