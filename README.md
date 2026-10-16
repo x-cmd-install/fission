@@ -14,11 +14,11 @@ x install fission
 
 ## Code insight
 
-Total: **230,636** lines of code across **1474** files in the top 5 languages.
+Total: **230,805** lines of code across **1474** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 156,267 | 42,710 | 25,104 | 1282 |
+| Go | 156,436 | 42,793 | 25,125 | 1282 |
 | Yaml | 60,292 | 2,077 | 444 | 155 |
 | Json | 10,287 | 0 | 0 | 9 |
 | Pan | 2,034 | 90 | 47 | 9 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,933 · **Forks**: 797 · **Open issues**: 1,165 · **Contributors**: 176
+- **Stars**: 8,934 · **Forks**: 798 · **Open issues**: 1,165 · **Contributors**: 176
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 1828 · **Open PRs**: 7 · **Closed issues**: 1123 · **Open issues**: 42 · **Commits**: 2172
+- **Releases**: 86 · **Merged PRs**: 1829 · **Open PRs**: 7 · **Closed issues**: 1123 · **Open issues**: 42 · **Commits**: 2173
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 5 | 1 | 0 | 1 | 5 |
-| last60d | 2026-08-16 | 0 | 24 | 4 | 0 | 3 | 19 |
-| 90d | 2026-07-17 | 0 | 88 | 5 | 13 | 8 | 87 |
-| last180d | 2026-04-18 | 5 | 285 | 6 | 26 | 10 | 283 |
-| 360d | 2025-10-20 | 7 | 324 | 6 | 29 | 10 | 325 |
-| last720d | 2024-10-25 | 10 | 416 | 7 | 53 | 15 | 412 |
+| 30d | 2026-09-16 | 0 | 5 | 2 | 0 | 1 | 6 |
+| last60d | 2026-08-17 | 0 | 22 | 4 | 0 | 3 | 20 |
+| 90d | 2026-07-18 | 0 | 89 | 5 | 13 | 8 | 88 |
+| last180d | 2026-04-19 | 5 | 286 | 6 | 26 | 10 | 284 |
+| 360d | 2025-10-21 | 7 | 325 | 6 | 29 | 10 | 326 |
+| last720d | 2024-10-26 | 10 | 417 | 7 | 53 | 15 | 413 |
 
 ## Release assets
 
@@ -124,4 +124,4 @@ Install metadata for fission lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:24:16Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:14:47Z._
