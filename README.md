@@ -30,9 +30,9 @@ Overall score: **7.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/26 approved changesets -- score normalized to 0
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Code-Review** (0/10) — Found 0/25 approved changesets -- score normalized to 0
 - **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.27.0` (2026-06-22)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-22
 - **Assets in release**: 45
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 1829 · **Open PRs**: 7 · **Closed issues**: 1123 · **Open issues**: 42 · **Commits**: 2173
+- **Releases**: 86 · **Merged PRs**: 1830 · **Open PRs**: 7 · **Closed issues**: 1123 · **Open issues**: 42 · **Commits**: 2174
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 5 | 3 | 0 | 1 | 6 |
-| last60d | 2026-08-23 | 0 | 13 | 4 | 0 | 2 | 11 |
-| 90d | 2026-07-24 | 0 | 75 | 5 | 8 | 8 | 75 |
-| last180d | 2026-04-25 | 5 | 285 | 6 | 26 | 10 | 283 |
-| 360d | 2025-10-27 | 7 | 324 | 6 | 29 | 10 | 325 |
-| last720d | 2024-11-01 | 10 | 417 | 7 | 50 | 14 | 413 |
+| 30d | 2026-09-23 | 0 | 6 | 3 | 0 | 1 | 7 |
+| last60d | 2026-08-24 | 0 | 14 | 4 | 0 | 2 | 12 |
+| 90d | 2026-07-25 | 0 | 76 | 5 | 8 | 8 | 76 |
+| last180d | 2026-04-26 | 5 | 286 | 6 | 26 | 10 | 284 |
+| 360d | 2025-10-28 | 7 | 325 | 6 | 29 | 10 | 326 |
+| last720d | 2024-11-02 | 10 | 418 | 7 | 49 | 14 | 414 |
 
 ## Release assets
 
@@ -115,6 +115,14 @@ Lowest-scoring checks:
 | [reporter_1.27.0_linux_arm64.sbom.json](https://github.com/fission/fission/releases/download/v1.27.0/reporter_1.27.0_linux_arm64.sbom.json) | 50.9 KiB | `native/linux/arm64` |
 | [reporter_1.27.0_linux_arm64.sbom.json.sig.bundle](https://github.com/fission/fission/releases/download/v1.27.0/reporter_1.27.0_linux_arm64.sbom.json.sig.bundle) | 10.0 KiB | `native/linux/arm64` |
 
+## Distribution status
+
+Reported by **8** distros on [repology.org](https://repology.org/project/fission). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `1.27.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for fission lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `fission` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -124,4 +132,4 @@ Install metadata for fission lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:29:18Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:29:08Z._

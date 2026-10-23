@@ -30,9 +30,9 @@ x install fission
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/26 approved changesets -- score normalized to 0
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Code-Review** (0/10) — Found 0/25 approved changesets -- score normalized to 0
 - **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -43,7 +43,7 @@ x install fission
 ## 发布
 
 - **最新版本**: `v1.27.0` (2026-06-22)
-- **最近提交**: 2026-10-15
+- **最近提交**: 2026-10-22
 - **Release 含资产**: 45 个
 
 ## 流行度
@@ -52,18 +52,18 @@ x install fission
 
 ## 累计统计
 
-- **发布数**: 86 · **已合并 PR**: 1829 · **开放 PR**: 7 · **已关闭 issue**: 1123 · **开放 issue**: 42 · **提交数**: 2173
+- **发布数**: 86 · **已合并 PR**: 1830 · **开放 PR**: 7 · **已关闭 issue**: 1123 · **开放 issue**: 42 · **提交数**: 2174
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 5 | 3 | 0 | 1 | 6 |
-| last60d | 2026-08-23 | 0 | 13 | 4 | 0 | 2 | 11 |
-| 90d | 2026-07-24 | 0 | 75 | 5 | 8 | 8 | 75 |
-| last180d | 2026-04-25 | 5 | 285 | 6 | 26 | 10 | 283 |
-| 360d | 2025-10-27 | 7 | 324 | 6 | 29 | 10 | 325 |
-| last720d | 2024-11-01 | 10 | 417 | 7 | 50 | 14 | 413 |
+| 30d | 2026-09-23 | 0 | 6 | 3 | 0 | 1 | 7 |
+| last60d | 2026-08-24 | 0 | 14 | 4 | 0 | 2 | 12 |
+| 90d | 2026-07-25 | 0 | 76 | 5 | 8 | 8 | 76 |
+| last180d | 2026-04-26 | 5 | 286 | 6 | 26 | 10 | 284 |
+| 360d | 2025-10-28 | 7 | 325 | 6 | 29 | 10 | 326 |
+| last720d | 2024-11-02 | 10 | 418 | 7 | 49 | 14 | 414 |
 
 ## Release 资产
 
@@ -115,6 +115,14 @@ x install fission
 | [reporter_1.27.0_linux_arm64.sbom.json](https://github.com/fission/fission/releases/download/v1.27.0/reporter_1.27.0_linux_arm64.sbom.json) | 50.9 KiB | `native/linux/arm64` |
 | [reporter_1.27.0_linux_arm64.sbom.json.sig.bundle](https://github.com/fission/fission/releases/download/v1.27.0/reporter_1.27.0_linux_arm64.sbom.json.sig.bundle) | 10.0 KiB | `native/linux/arm64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/fission) 上共有 **8** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `1.27.0` | ⚠️ outdated |
+
 ## 改进这些数据
 
 fission 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `fission` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -124,4 +132,4 @@ fission 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:29:19Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:29:09Z._
