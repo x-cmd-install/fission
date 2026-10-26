@@ -14,12 +14,12 @@ x install fission
 
 ## Code insight
 
-Total: **230,805** lines of code across **1474** files in the top 5 languages.
+Total: **230,825** lines of code across **1474** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 156,436 | 42,793 | 25,125 | 1282 |
-| Yaml | 60,292 | 2,077 | 444 | 155 |
+| Yaml | 60,312 | 2,077 | 444 | 155 |
 | Json | 10,287 | 0 | 0 | 9 |
 | Pan | 2,034 | 90 | 47 | 9 |
 | Sh | 660 | 174 | 172 | 19 |
@@ -31,8 +31,8 @@ Overall score: **7.7 / 10**
 Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 0/25 approved changesets -- score normalized to 0
-- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 
 ## Source
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.27.0` (2026-06-22)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-26
 - **Assets in release**: 45
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 1830 · **Open PRs**: 8 · **Closed issues**: 1123 · **Open issues**: 42 · **Commits**: 2174
+- **Releases**: 86 · **Merged PRs**: 1831 · **Open PRs**: 8 · **Closed issues**: 1123 · **Open issues**: 42 · **Commits**: 2175
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 6 | 3 | 0 | 1 | 7 |
-| last60d | 2026-08-26 | 0 | 13 | 4 | 0 | 2 | 11 |
-| 90d | 2026-07-27 | 0 | 72 | 6 | 4 | 8 | 52 |
-| last180d | 2026-04-28 | 5 | 285 | 7 | 26 | 10 | 279 |
-| 360d | 2025-10-30 | 7 | 325 | 7 | 29 | 10 | 319 |
-| last720d | 2024-11-04 | 10 | 417 | 8 | 49 | 14 | 414 |
+| 30d | 2026-09-26 | 0 | 7 | 3 | 0 | 1 | 8 |
+| last60d | 2026-08-27 | 0 | 14 | 4 | 0 | 2 | 12 |
+| 90d | 2026-07-28 | 0 | 72 | 6 | 4 | 8 | 53 |
+| last180d | 2026-04-29 | 5 | 286 | 7 | 26 | 10 | 280 |
+| 360d | 2025-10-31 | 7 | 326 | 7 | 29 | 10 | 320 |
+| last720d | 2024-11-05 | 10 | 418 | 8 | 48 | 14 | 415 |
 
 ## Release assets
 
@@ -132,4 +132,4 @@ Install metadata for fission lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:18:01Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:32:30Z._
