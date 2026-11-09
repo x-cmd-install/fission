@@ -26,12 +26,12 @@ x install fission
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.6 / 10**
+总评分: **7.5 / 10**
 
 评分最低的几项:
 
 - **Code-Review** (0/10) — Found 0/25 approved changesets -- score normalized to 0
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Vulnerabilities** (3/10) — 7 existing vulnerabilities detected
 - **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 
 ## 源代码
@@ -58,12 +58,12 @@ x install fission
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 7 | 4 | 0 | 0 | 8 |
-| last60d | 2026-09-09 | 0 | 12 | 6 | 0 | 1 | 12 |
-| 90d | 2026-08-10 | 0 | 31 | 7 | 0 | 3 | 33 |
-| last180d | 2026-05-12 | 5 | 271 | 9 | 26 | 10 | 270 |
-| 360d | 2025-11-13 | 7 | 321 | 9 | 29 | 10 | 320 |
-| last720d | 2024-11-18 | 10 | 417 | 10 | 46 | 14 | 414 |
+| 30d | 2026-10-10 | 0 | 7 | 4 | 0 | 0 | 2 |
+| last60d | 2026-09-10 | 0 | 12 | 6 | 0 | 1 | 8 |
+| 90d | 2026-08-11 | 0 | 30 | 7 | 0 | 3 | 27 |
+| last180d | 2026-05-13 | 5 | 271 | 9 | 26 | 10 | 263 |
+| 360d | 2025-11-14 | 7 | 321 | 9 | 29 | 10 | 320 |
+| last720d | 2024-11-19 | 10 | 417 | 10 | 46 | 14 | 413 |
 
 ## Release 资产
 
@@ -132,4 +132,4 @@ fission 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T06:56:39Z._
+_数据快照: `data/card/261109.yml` · 2026-11-09T07:20:21Z._
