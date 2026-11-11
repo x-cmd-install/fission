@@ -14,11 +14,11 @@ x install fission
 
 ## 代码洞察
 
-合计: **231,358** 行代码（覆盖前 5 种语言、共 **1474** 个文件）。
+合计: **231,729** 行代码（覆盖前 5 种语言、共 **1474** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 156,969 | 43,262 | 25,320 | 1282 |
+| Go | 157,340 | 43,398 | 25,367 | 1282 |
 | Yaml | 60,312 | 2,077 | 444 | 155 |
 | Json | 10,287 | 0 | 0 | 9 |
 | Pan | 2,034 | 90 | 47 | 9 |
@@ -30,9 +30,9 @@ x install fission
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/25 approved changesets -- score normalized to 0
-- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
+- **Code-Review** (0/10) — Found 1/23 approved changesets -- score normalized to 0
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install fission
 ## 发布
 
 - **最新版本**: `v1.27.0` (2026-06-22)
-- **最近提交**: 2026-11-09
+- **最近提交**: 2026-11-11
 - **Release 含资产**: 45 个
 
 ## 流行度
 
-- **Star**: 8,944 · **Fork**: 795 · **开放 issue**: 1,165 · **贡献者**: 175
+- **Star**: 8,944 · **Fork**: 794 · **开放 issue**: 1,165 · **贡献者**: 176
 
 ## 累计统计
 
-- **发布数**: 86 · **已合并 PR**: 1834 · **开放 PR**: 10 · **已关闭 issue**: 1123 · **开放 issue**: 42 · **提交数**: 2178
+- **发布数**: 86 · **已合并 PR**: 1837 · **开放 PR**: 7 · **已关闭 issue**: 1123 · **开放 issue**: 42 · **提交数**: 2181
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 10 | 4 | 0 | 0 | 5 |
-| last60d | 2026-09-11 | 0 | 12 | 6 | 0 | 1 | 11 |
-| 90d | 2026-08-12 | 0 | 33 | 7 | 0 | 3 | 30 |
-| last180d | 2026-05-14 | 5 | 271 | 9 | 26 | 10 | 266 |
-| 360d | 2025-11-15 | 7 | 324 | 9 | 29 | 10 | 323 |
-| last720d | 2024-11-20 | 10 | 420 | 10 | 45 | 14 | 416 |
+| 30d | 2026-10-12 | 0 | 12 | 2 | 0 | 0 | 8 |
+| last60d | 2026-09-12 | 0 | 15 | 3 | 0 | 1 | 14 |
+| 90d | 2026-08-13 | 0 | 36 | 4 | 0 | 3 | 33 |
+| last180d | 2026-05-15 | 5 | 273 | 6 | 26 | 10 | 269 |
+| 360d | 2025-11-16 | 7 | 327 | 6 | 29 | 10 | 326 |
+| last720d | 2024-11-21 | 10 | 423 | 7 | 45 | 14 | 419 |
 
 ## Release 资产
 
@@ -132,4 +132,4 @@ fission 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261110.yml` · 2026-11-10T08:17:08Z._
+_数据快照: `data/card/261111.yml` · 2026-11-11T07:28:19Z._
