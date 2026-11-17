@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,948 · **Forks**: 794 · **Open issues**: 1,165 · **Contributors**: 176
+- **Stars**: 8,950 · **Forks**: 794 · **Open issues**: 1,165 · **Contributors**: 176
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 1837 · **Open PRs**: 7 · **Closed issues**: 1123 · **Open issues**: 42 · **Commits**: 2181
+- **Releases**: 86 · **Merged PRs**: 1837 · **Open PRs**: 9 · **Closed issues**: 1123 · **Open issues**: 42 · **Commits**: 2181
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 7 | 1 | 0 | 0 | 7 |
-| last60d | 2026-09-17 | 0 | 12 | 3 | 0 | 1 | 14 |
-| 90d | 2026-08-18 | 0 | 29 | 4 | 0 | 3 | 22 |
-| last180d | 2026-05-20 | 4 | 269 | 6 | 25 | 10 | 253 |
-| 360d | 2025-11-21 | 7 | 326 | 6 | 29 | 10 | 325 |
-| last720d | 2024-11-26 | 10 | 423 | 7 | 45 | 14 | 419 |
+| 30d | 2026-10-18 | 0 | 7 | 3 | 0 | 0 | 7 |
+| last60d | 2026-09-18 | 0 | 12 | 5 | 0 | 1 | 14 |
+| 90d | 2026-08-19 | 0 | 29 | 6 | 0 | 3 | 22 |
+| last180d | 2026-05-21 | 4 | 269 | 8 | 25 | 10 | 253 |
+| 360d | 2025-11-22 | 7 | 326 | 8 | 29 | 10 | 325 |
+| last720d | 2024-11-27 | 10 | 423 | 9 | 45 | 14 | 419 |
 
 ## Release assets
 
@@ -132,4 +132,4 @@ Install metadata for fission lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:54:15Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:14:29Z._
