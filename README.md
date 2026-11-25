@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 5 | 2 | 0 | 0 | 6 |
-| last60d | 2026-09-25 | 0 | 12 | 5 | 0 | 1 | 14 |
-| 90d | 2026-08-26 | 0 | 20 | 5 | 0 | 2 | 19 |
-| last180d | 2026-05-28 | 3 | 242 | 8 | 25 | 10 | 205 |
-| 360d | 2025-11-29 | 7 | 325 | 8 | 29 | 10 | 325 |
-| last720d | 2024-12-04 | 10 | 421 | 9 | 44 | 14 | 419 |
+| 30d | 2026-10-26 | 0 | 5 | 2 | 0 | 0 | 6 |
+| last60d | 2026-09-26 | 0 | 12 | 5 | 0 | 1 | 14 |
+| 90d | 2026-08-27 | 0 | 20 | 5 | 0 | 2 | 19 |
+| last180d | 2026-05-29 | 3 | 232 | 8 | 25 | 10 | 205 |
+| 360d | 2025-11-30 | 7 | 325 | 8 | 29 | 10 | 325 |
+| last720d | 2024-12-05 | 10 | 421 | 9 | 44 | 14 | 419 |
 
 ## Release assets
 
@@ -115,14 +115,6 @@ Lowest-scoring checks:
 | [reporter_1.27.0_linux_arm64.sbom.json](https://github.com/fission/fission/releases/download/v1.27.0/reporter_1.27.0_linux_arm64.sbom.json) | 50.9 KiB | `native/linux/arm64` |
 | [reporter_1.27.0_linux_arm64.sbom.json.sig.bundle](https://github.com/fission/fission/releases/download/v1.27.0/reporter_1.27.0_linux_arm64.sbom.json.sig.bundle) | 10.0 KiB | `native/linux/arm64` |
 
-## Distribution status
-
-Reported by **8** distros on [repology.org](https://repology.org/project/fission). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `1.27.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for fission lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `fission` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -132,4 +124,4 @@ Install metadata for fission lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:49:00Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:02:29Z._
